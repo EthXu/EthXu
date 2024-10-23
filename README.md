@@ -27,15 +27,20 @@
     </tr>
     <tr>
         <td style="font-weight: bold; padding-right: 10px; vertical-align: center;">Frameworks:</td>
-        <td><img height="25" src="https://img.shields.io/badge/Spring-6DB33F?logo=spring&logoColor=fff&style=flat"/> <img height="25" src="https://img.shields.io/badge/ThinkPHP-97eb73?logo=ThinkPHP&logoColor=000&style=flat"/> <img height="25" src="https://img.shields.io/badge/Laravel-e84359?logo=Laravel&logoColor=141414&style=flat"/> <img height="25" src="https://img.shields.io/badge/Yii-f2f7f0?logo=Yii&logoColor=000&style=flat"/></td>
+        <td><img height="40"  src="https://skillicons.dev/icons?i=spring,laravel"/> 
+    <img width="40" height="40" src="https://pub-0c54f5a2c7834f658db746949889664b.r2.dev/svg/thinkphp.svg" alt="thinkphp" style="border-radius: 10px;"/>
+        </td>
     </tr>
     <tr>
-        <td style="font-weight: bold; padding-right: 10px; vertical-align: center;">Other Tools:</td>
-        <td><img height="40" src="https://skillicons.dev/icons?i=bash,powershell,androidstudio,docker,maven"/></td>
+        <td style="font-weight: bold; padding-right: 10px; vertical-align: center;">Common Tools:</td>
+        <td><img height="40" src="https://skillicons.dev/icons?i=androidstudio,kali,docker"/> <img height="40" src="https://pub-0c54f5a2c7834f658db746949889664b.r2.dev/svg/burp-professional.svg" alt="BurpSuite" style="border-radius: 10px;"/>         <img height="40" src="https://pub-0c54f5a2c7834f658db746949889664b.r2.dev/2024/10/8511972f22c8cf4b597be4d1c10641fa.png" alt="cobalt strike" style="border-radius: 10px;"/> <img height="40" src="https://skillicons.dev/icons?i=postman"/> 
+        </td>
     </tr>
     <tr>
-        <td style="font-weight: bold; padding-right: 10px; vertical-align: center;">Real Tools:</td>
-        <td><img height="40" src="https://upload.wikimedia.org/wikipedia/commons/0/04/ChatGPT_logo.svg" alt="ChatGPT"/></td>
+        <td style="font-weight: bold; padding-right: 10px; vertical-align: center;">Common AI:</td>
+        <td><img height="40" src="https://upload.wikimedia.org/wikipedia/commons/0/04/ChatGPT_logo.svg" alt="ChatGPT" style="border-radius: 10px;"/>
+        <img height="41" width="41" src="https://pub-0c54f5a2c7834f658db746949889664b.r2.dev/2024/10/2127bdd52fca650ecf2030fe61d6aab6.png" style="border-radius: 10px;">
+        </td>
     </tr>
     <tr>
         <td style="font-weight: bold; padding-right: 10px; vertical-align: center;">IDEs:</td>
@@ -43,7 +48,7 @@
     </tr>
     <tr>
         <td style="font-weight: bold; padding-right: 10px; vertical-align: center;">Operating Systems:</td>
-        <td><img height="40" src="https://skillicons.dev/icons?i=windows,kali,linux,bsd"/></td>
+        <td><img height="40" src="https://skillicons.dev/icons?i=windows,linux,bsd"/></td>
     </tr>
 </table>
 
