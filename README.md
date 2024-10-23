@@ -2,17 +2,22 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=35&duration=3500&color=fcfcfc&background=0588fa&center=true&vCenter=true&width=900&lines=Hey%2C+I'm+Six+BuEx;Welcome+To+My+Profile!" alt="Hey, I'm Six BuEx | Welcome to my profile!" />
 </p>
 
-![borderseperator](https://r2img.6buex.com/2024/10/0f490c1179909ee8006859e60c6177b9.gif)
-<img src="https://raw.githubusercontent.com/6buEX/ImageHosting/refs/heads/main/readme-header.png">
+![borderseperator](https://pub-0c54f5a2c7834f658db746949889664b.r2.dev/2024/10/0f490c1179909ee8006859e60c6177b9.gif)
 
-![borderseperator](https://r2img.6buex.com/2024/10/0f490c1179909ee8006859e60c6177b9.gif)
+
+
+<img src="https://pub-0c54f5a2c7834f658db746949889664b.r2.dev/2024/10/d7a0e07686e15945172b31787f08ce77.png">
+
+![borderseperator](https://pub-0c54f5a2c7834f658db746949889664b.r2.dev/2024/10/0f490c1179909ee8006859e60c6177b9.gif)
+
 ### 🤺 About Me
 
 <p>&emsp;&emsp;I'm a penetration testing engineer 🕵️‍♂️ and an amateur blockchain enthusiast 💻, as well as a hobbyist photographer 📸, all the way from China! I love cyber security because hunting for vulnerabilities feels like an adventure in the jungle 🌿—the unknown challenges keep things exciting, while the demands of software development are crystal clear.</p>
 <p>&emsp;&emsp;I'm working towards becoming a skilled and dedicated tech enthusiast, aiming to create elegant code structures that contribute to a safer world 🌍!</p>
 
-<!-- ########################################## 分割 ########################################## -->
-![borderseperator](https://r2img.6buex.com/2024/10/0f490c1179909ee8006859e60c6177b9.gif)
+<!-- ########################################## ########################################## -->
+![borderseperator](https://pub-0c54f5a2c7834f658db746949889664b.r2.dev/2024/10/0f490c1179909ee8006859e60c6177b9.gif)
+
 ### 🧰 Tech Stack and Tools
 
 <table>
@@ -42,7 +47,8 @@
     </tr>
 </table>
 
-![borderseperator](https://r2img.6buex.com/2024/10/0f490c1179909ee8006859e60c6177b9.gif)
+![borderseperator](https://pub-0c54f5a2c7834f658db746949889664b.r2.dev/2024/10/0f490c1179909ee8006859e60c6177b9.gif)
+
 ### 🏋 2024 Plans
 
 <p>Someone once said:</p>
