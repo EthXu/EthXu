@@ -60,5 +60,6 @@
 
 <p>&emsp;&emsp;"To truly understand vulnerabilities, you need to be able to write and fix them" 🛠️.</p>
 
-<p>&emsp;&emsp;
+/*<p>&emsp;&emsp;
 So I plan to develop an MVC code auditing tool called hode, similar to nuclei 🔍. It will automatically detect vulnerabilities based on PoCs and implement taint tracking for controllable request validation. Currently, it only audits code developed in ThinkPHP, and there are still many gaps in function call detection ⚙️.</p>
+*/
