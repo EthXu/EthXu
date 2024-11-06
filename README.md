@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=35&duration=3500&color=fcfcfc&background=0588fa&center=true&vCenter=true&width=900&lines=Hey%2C+I'm+Six+BuEx;Welcome+To+My+Profile!" alt="Hey, I'm Six BuEx | Welcome to my profile!" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=35&duration=3500&color=fcfcfc&background=0588fa&center=true&vCenter=true&width=900&lines=Hey%2C+I'm+Eth+Xu;Welcome+To+My+Profile!" alt="Hey, I'm Eth Xu | Welcome to my profile!" />
 </p>
 
 ![borderseperator](https://pub-0c54f5a2c7834f658db746949889664b.r2.dev/2024/10/0f490c1179909ee8006859e60c6177b9.gif)
